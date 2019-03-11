@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Andrade</title>
+    <link>https://www.franciscoandrade.dev/</link>
+    <description>Recent content on Francisco Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Francisco Andrade</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 11:09:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.franciscoandrade.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Post</title>
+      <link>https://www.franciscoandrade.dev/posts/new-post/</link>
+      <pubDate>Fri, 08 Mar 2019 11:09:02 +0000</pubDate>
+      
+      <guid>https://www.franciscoandrade.dev/posts/new-post/</guid>
+      <description>New Post</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.franciscoandrade.dev/about/</link>
+      <pubDate>Fri, 08 Mar 2019 07:55:50 +0000</pubDate>
+      
+      <guid>https://www.franciscoandrade.dev/about/</guid>
+      <description>Experience since 2005 in leading IT projects, including projects for telco, banking and financial management. During the first years, I have been working as a Software Engineering, this has given me the opportunity to learn and improve different programming languages, analysis methods, agile methodologies and implementation methods.
+As a Developer, I have always been driven to build new and innovative products. I focus on usability and (high) performance. As a team and project leader my main objective is leading the team to higher levels of high performance by leading each member to reach their full potential through self-motivation and positive attitude.</description>
+    </item>
+    
+  </channel>
+</rss>

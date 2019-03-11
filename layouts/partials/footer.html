@@ -1,0 +1,18 @@
+<footer class="footer">
+  <section class="container centered">
+      <div class="about">
+        {{ with .Site.Params.social }}
+        <ul>
+          {{ range sort .}}
+            <li><a href="{{ .url }}"><i class="fab fa-{{ .icon }}"></i></a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+  </section>
+  <section class="container">
+      <div>
+          {{ if not .Site.Params.hideCopyright }} © {{.Site.Copyright  }} {{ .Site.LastChange.Format "2006" }} {{ end }} {{ if not .Site.Params.hideCredits}} {{ if not .Site.Params.hideCopyright }} · {{ end }} Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/naro143/hugo-coder-portfolio">CoderPortfolio</a>. {{ end }}
+      </div>
+  </section>
+</footer>
