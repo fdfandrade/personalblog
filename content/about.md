@@ -4,18 +4,10 @@ date: 2019-03-08T07:55:50Z
 draft: false
 ---
 
-Experience since 2005 in leading IT projects, including projects for telco, banking and financial management. During the first years, I have been working as a Software Engineering, this has given me the opportunity to learn and improve different programming languages, analysis methods, agile methodologies and implementation methods.
+Living in Lisbon, Portugal, I have a great life. I am married to the woman I love, I am the father of a beautiful boy, and I get to pursue my passions and interests every single day. Since 2005, I have worked in IT, racking up a wealth of professional experience.
 
-As a Developer, I have always been driven to build new and innovative products. I focus on usability and (high) performance. As a team and project leader my main objective is leading the team to higher levels of high performance by leading each member to reach their full potential through self-motivation and positive attitude.
+When I first got into software engineering, I focused on the ways that I could build my knowledge in programming languages and methodologies. Since then, I have become a master in a variety of areas, becoming a Scrum master and a Project Manager, and today working as a Software Engineer. 
 
-During the last years, I also played the Scrum Master role alongside with the team leader role. Recently I became Agile Coach.
+I left my salaried job in December 2019 in order to pursue freelance / remote work and return to my technical roots, shifting away from the management only-role I had taken on. Although the shift was challenging for me, I knew that remote work was what I wanted to do. Giving up the security and certainty of my old position seemed to make sense when I reflected on how much more time I would get to spend with my family, whom I cherish more than anything else.
 
-I’m passionate about technology and love to build applications, so, in my free time I like to learn new programming languages, challenge myself! The three that I have developed more recently are an application to manage club members (associous.com), another to pick you movies (moviepick.me) and the last one is to manage stocks.
-
-As a professional I define myself as:
-
-+ Self-motivated and positive attitude;
-+ Team player and leadership skills;
-+ Influencer and evangelist;
-+ Communication skills; and
-+ Quick adaptation and fast learner.
+As a professional, I keep a positive attitude at all times. I lead my team by example, exerting soft influence and putting communication at the center of every project. Quick to learn and adapt, I thrive in new environments. In my free time, I enjoy listening to music, traveling, and continuing to grow my skill set.
